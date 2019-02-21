@@ -1,6 +1,6 @@
 # Michael Schorr
 # 2/19/19
-# program of basic math operations on integers.
+# Program of basic math operations on integers.
 
 print(3 + 3)
 print(9 - 3)
