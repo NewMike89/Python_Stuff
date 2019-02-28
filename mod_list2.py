@@ -9,7 +9,6 @@ print(motorcycles)
 motorcycles.append('ducati')
 print(motorcycles)
 
-
 # Part 2
 motorcycles = []
 motorcycles.append('honda')
