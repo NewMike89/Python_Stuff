@@ -1,6 +1,6 @@
 # Michael Schorr
 # 2/27/19
-# creating a list of anyone i want and inviting them to dinner.
+# creating a list of anyone I want and inviting them to dinner but one of them bailed on the plans.
 
 guests = ['george washington', 'bono', 'peter griffin']
 print("Greetings Mr. " + guests[0].title() + ", I would like to invite you to dinner on the 1st of March.")
